@@ -5,7 +5,7 @@ This Power BI dashboard presents a comprehensive analysis of financial performan
 ## Dashboard Preview
 
 ### Executive Overview  
-![Executive Overview](Dashboard_Screenshots/Executive_Overview.png)
+![Executive Overview](Dashboard_Screenshots/Page1_ExecutiveOverview.png)
 
 ### Product & Segment Insights  
 ![Product & Segment Insights](Dashboard_Screenshots/Product_Segment_Insights.png)
