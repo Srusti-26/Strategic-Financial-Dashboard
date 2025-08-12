@@ -27,7 +27,7 @@ This Power BI dashboard presents a comprehensive analysis of financial performan
    - Ribbon chart for product ranking over time
 
 ## Project Structure
-
+```text
 Strategic-Financial-Dashboard/
 ├── PowerBI_Dashboard.pbix
 ├── Dashboard_Screenshots/
@@ -39,7 +39,7 @@ Strategic-Financial-Dashboard/
 ├── Presentation/
 │ └── Dashboard_Summary.pptx
 └── README.md
-
+```
 ## How to Use
 
 1. Clone the repository:
